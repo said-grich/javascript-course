@@ -1,0 +1,3 @@
+créer un système de filtrage de contenu dynamique. Ce projet consiste à créer une page Web qui affiche une collection d'éléments (tels que des articles, des produits,
+ des images, etc.) et permet aux utilisateurs de filtrer et trier ces éléments en fonction de divers critères (tels que catégories, balises, date, etc.).
+ Cela vous donnera une expérience pratique de la création, de la manipulation et du filtrage dynamique des éléments DOM en fonction des entrées de l'utilisateur.

@@ -1,0 +1,15 @@
+#todo-app {
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+#todo-list {
+    list-style: none;
+    padding: 0;
+}
+
+#todo-list li {
+    text-align: left;
+    margin-top: 10px;
+}

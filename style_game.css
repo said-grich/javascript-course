@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.form input, .form button {
+    margin: 10px;
+}
+
+#restart {
+    margin-top: 20px;
+}
